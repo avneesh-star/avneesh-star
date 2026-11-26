@@ -1,6 +1,6 @@
 # Hi, I'm Avnish Kumar
 
-**Backend Engineer** with 5+ years building and modernizing production backends in **C#/.NET Core** and **Go**, mostly in FinTech. I work on microservices, event-driven systems, high-performance APIs and the observability that keeps them running.
+**Backend Engineer** with 6+ years building and modernizing production backends in **C#/.NET Core** and **Go**, mostly in FinTech. I work on microservices, event-driven systems, high-performance APIs and the observability that keeps them running.
 
 Based in Gurugram, India.
 
