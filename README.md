@@ -23,12 +23,6 @@ Based in Gurugram, India.
 | **Infra and DevOps** | Docker, Terraform, AWS ECS, GitHub Actions, Azure DevOps |
 | **Observability** | Grafana, Loki, Tempo, Mimir, Prometheus, OpenTelemetry |
 
-## Featured projects
-
-**[db-replication-lab](https://github.com/avneesh-star/db-replication-lab)**: runnable labs for database replication and failover. PostgreSQL streaming replication, a Patroni + etcd + HAProxy cluster, a production-style version with synchronous replication, WAL archiving, Prometheus and Grafana, SQL Server Always On, and a .NET API that retries through failovers. Failover tests are scripted and measured: no acknowledged write was lost.
-
-**[go-microservices-aws-ecs](https://github.com/avneesh-star/go-microservices-aws-ecs)**: Go microservices on AWS ECS Fargate, fully described in Terraform, with OpenTelemetry tracing and metrics, RDS PostgreSQL, autoscaling, Secrets Manager and a GitHub Actions deployment pipeline.
-
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/avnish-kumar-256100205)
